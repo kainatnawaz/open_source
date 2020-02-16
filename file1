@@ -1,2 +1,5 @@
 echo "# open_source" >>README.md
 git init
+another commnd1
+command2
+command3
